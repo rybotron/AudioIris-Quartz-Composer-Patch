@@ -3,7 +3,7 @@
 Audio Iris is an audio reactive Quartz Composer patch designed to be performed standalone in Quartz or 
 sequenced in VDMX.
 
-## Plugin
+## Plugin Needed
 Kineme GL Tools
 - plugin: http://kineme.net/QuartzComposerPatches/GLTools
 - sourcecode: https://github.com/kineme/GLTools
